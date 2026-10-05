@@ -1,16 +1,183 @@
-## Hi there 👋
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Manoj%20Lamani&fontSize=72&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Open-Source%20Explorer&descAlignY=72&descSize=18&stroke=7f5af0&strokeWidth=1" width="100%"/></a>
+</p>
 
-<!--
-**ManojLamani/ManojLamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=7F5AF0&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hey+there!+I'm+Manoj+%F0%9F%91%8B;Third-year+Computer+Science+Student;Full-Stack+Developer+%7C+MERN+%2B+Django;Exploring+AI+%2F+ML+%F0%9F%A4%96;Open-Source+Contributor+in+the+making+%F0%9F%9A%80;Solving+DSA+problems+daily+%F0%9F%A7%A0" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/manoj-lamani-4aa866325"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:manojlamani4996@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ManojLamani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ===================== ABOUT ===================== -->
+## <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a> About Me
+
+<a href="#"><img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="coding"/></a>
+
+I'm a **third-year Computer Science student** passionate about **software development, AI/ML, and open-source**.
+
+I enjoy building real-world applications with **Java, JavaScript, React, Node.js, Python, and Django**, while sharpening my **problem-solving & DSA** skills every day.
+
+- 🔭 Building **real-world web apps & AI-powered projects**
+- 🌱 Learning **Machine Learning, System Design & TypeScript**
+- 👯 Exploring **open-source contributions**
+- 💬 Ask me about **MERN, Django & DSA**
+- ⚡ Fun fact: I debug faster with chai ☕
+
+<br clear="right"/>
+
+```js
+const manoj = {
+  role:       "Full-Stack Developer",
+  education:  "B.Tech — Computer Science (2024 – 2028)",
+  code:       ["Java", "Python", "JavaScript", "TypeScript"],
+  building:   "Real-world web apps & AI-powered projects",
+  learning:   ["Machine Learning", "System Design", "TypeScript"],
+  exploring:  "Open-source contributions",
+  askMeAbout: ["MERN", "Django", "DSA"],
+};
+```
+
+<!-- ===================== SKILLS ===================== -->
+## <a href="#"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"></a> Tech Stack
+
+<p align="center"><b>💻 Languages</b></p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&perline=6" /></a>
+</p>
+
+<p align="center"><b>⚙️ Frameworks & Libraries</b></p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,nodejs,express,django,tailwind&perline=5" /></a>
+</p>
+
+<p align="center"><b>🤖 AI/ML & DevOps</b></p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=sklearn,fastapi,docker,prisma&perline=4" /></a>
+</p>
+
+<p align="center"><b>🗄️ Databases</b></p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=3" /></a>
+</p>
+
+<p align="center"><b>🛠️ Tools</b></p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,eclipse,postman&perline=6" /></a>
+</p>
+
+<!-- ===================== PROJECTS ===================== -->
+## <a href="#"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"></a> Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧠 <a href="https://github.com/ManojLamani/DEVMATE_AI">DevMate AI</a></h3>
+<p>A full-stack <b>GitHub repository analyzer SaaS</b> that uses ML to predict issue difficulty, cluster repositories, forecast contribution success, and recommend personalized issues to developers.</p>
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
+</p>
+
+<a href="https://github.com/ManojLamani/DEVMATE_AI"><img src="https://img.shields.io/badge/View%20Repo-7f5af0?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🤖 <a href="https://github.com/ManojLamani/AI-Support-Agent">AI Support Agent</a></h3>
+<p>A production-style <b>customer support AI</b> that classifies tweets by intent, retrieves similar past cases as evidence, drafts on-brand replies, and uses safety guardrails to decide when to escalate to a human.</p>
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TF--IDF%20%2B%20LinearSVC-2cb67d?style=flat-square"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vector%20Search-6a54d8?style=flat-square"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/></a>
+</p>
+
+<a href="https://github.com/ManojLamani/AI-Support-Agent"><img src="https://img.shields.io/badge/View%20Repo-7f5af0?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>📉 <a href="https://github.com/ManojLamani/Auto-Tuned-Churn-API">Auto-Tuned Churn API</a></h3>
+<p>A <b>customer churn prediction</b> system with random-search hyperparameter tuning, nested cross-validation, a production-style FastAPI inference service, and a React analyst dashboard for prioritizing retention outreach.</p>
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
+</p>
+
+<a href="https://github.com/ManojLamani/Auto-Tuned-Churn-API"><img src="https://img.shields.io/badge/View%20Repo-7f5af0?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📊 <a href="https://github.com/ManojLamani/E-Commerce-Sales-Analysis">E-Commerce Sales Analysis</a></h3>
+<p><b>Exploratory data analysis</b> of e-commerce transactions that uncovers customer purchasing patterns, top-performing products, and key business metrics like total revenue and order volume.</p>
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>
+</p>
+
+<a href="https://github.com/ManojLamani/E-Commerce-Sales-Analysis"><img src="https://img.shields.io/badge/View%20Repo-7f5af0?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+<!-- ===================== STATS ===================== -->
+## <a href="#"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"></a> GitHub Analytics
+
+<p align="center">
+  <a href="#"><img height="170" src="https://github-readme-stats.vercel.app/api?username=ManojLamani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f5af0&icon_color=2cb67d&text_color=c9d1d9" /></a>
+  <a href="#"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojLamani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f5af0&text_color=c9d1d9&langs_count=8" /></a>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://streak-stats.demolab.com?user=ManojLamani&theme=tokyonight&hide_border=true&background=0d1117&ring=7f5af0&fire=2cb67d&currStreakLabel=7f5af0" /></a>
+</p>
+
+<p align="center">
+  <a href="#"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManojLamani&bg_color=0d1117&color=7f5af0&line=2cb67d&point=ffffff&area=true&hide_border=true&custom_title=Manoj's%20Contribution%20Graph" /></a>
+</p>
+
+<!-- ===================== QUOTE ===================== -->
+## 💭 Dev Quote of the Moment
+
+<p align="center">
+  <a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /></a>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <b>⭐ “First, solve the problem. Then, write the code.” ⭐</b><br/>
+  <sub>Thanks for stopping by — let's connect and build something awesome together!</sub>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/></a>
+</p>
